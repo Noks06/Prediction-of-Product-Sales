@@ -1,6 +1,7 @@
 # Sales Predictions
   
-## Analayzing how properties of products and outlets can play crucial roles in predicting sales 
+## Project Overview: 
+Analyzing how properties of products and outlets can play crucial roles in predicting sales 
 
 **Nokuthula Mchunu**: 
 
