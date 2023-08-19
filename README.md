@@ -13,19 +13,8 @@ For this dataset there are 8523 records, 12 columns.
  
 Below is the Data Dictionary for this dataset:
 
-Variable Name	                Description
-Item_Identifier	                Unique product ID
-Item_Weight	                Weight of product
-Item_Fat_Content	        Whether the product is low fat or regular
-Item_Visibility	                The percentage of total display area of all products in a store allocated to the particular product
-Item_Type	                The category to which the product belongs
-Item_MRP	                Maximum Retail Price (list price) of the product
-Outlet_Identifier	        Unique store ID
-Outlet_Establishment_Year	The year in which store was established
-Outlet_Size	                The size of the store in terms of ground area covered
-Outlet_Location_Type	        The type of area in which the store is located
-Outlet_Type	                Whether the outlet is a grocery store or some sort of supermarket
-Item_Outlet_Sales	        Sales of the product in the particular store. This is the target variable to be predicted.
+
+![image](https://github.com/Noks06/Prediction-of-Product-Sales/assets/47742188/ba6b383c-88c9-4eee-bb16-aef9662e4c49)
 
 ## To Prepare this data set , Data was cleansed and following processes were followed.
 	1. Checked and correct the inconsistancies in the dataset
@@ -33,8 +22,6 @@ Item_Outlet_Sales	        Sales of the product in the particular store. This is 
 	3. Checkedd the null values and impute them with mean value
 
 ## Results
-
-### Here are examples of how to embed images from your sub-folder
 
 
 #### Number of Sales per Outlet_Type 
