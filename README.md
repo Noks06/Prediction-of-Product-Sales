@@ -24,13 +24,13 @@ Below is the Data Dictionary for this dataset:
 ## Results
 
 
-#### Number of Sales per Outlet_Type 
-![sample image](project1_sample_image.png)
+#### Number of Sales per Outlet_Type
+![image](https://github.com/Noks06/Prediction-of-Product-Sales/blob/main/barplot.png)
 
 > The image shows that Supermarket Type 3 has the highest sales of more that $3500.
 
 #### Correllation of numeric features against Item_Outlet_Sales
-
+![image]()
 >The image shows that Item_MRP has a positive correlated to Item_Outlet_Sales than other numeric featurs which have negetive correaltion 	   
 
 ## Machine learning using folowing Model:
